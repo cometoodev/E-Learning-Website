@@ -1,9 +1,5 @@
-new_elearning
+E-Learning-Website
 =============
-
-New Elearning (LMS) dokumenary
-By     : http://www.dokumenary.net
-Author : Almazari <almazary@gmail.com>
 
 Sebuah aplikasi yang dapat digunakan sebagai media untuk kegiatan belajar dan mengajar disekolah tingkat SMP/SMA/SMK sederajat atau instansi pendidikan lainnya, dan telah digunakan oleh banyak sekolah - sekolah di Indonesia sejak versi 1.0 dibagikan.
 
