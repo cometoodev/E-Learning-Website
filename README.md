@@ -19,4 +19,4 @@ Untuk pengguna terbagi menjadi tiga, yaitu:
 - Pengajar
 - Administrator (Pengajar yang bertindak sebagai administrator)
 
- <a href="http://www.dokumenary.net/2015/08/23/new-elearning-versi-1-0/">PANDUAN INSTALL</a>
+  THANKS
